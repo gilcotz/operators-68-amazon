@@ -41,3 +41,61 @@ form input[type="submit"]{
     background-color: #f7c548;
     font-size: 90%;
 }
+a {
+    text-decoration: none;
+}
+
+
+h6,button{
+    width: 75%;
+    text-align: center;
+}
+
+h6{
+    color: #767676;
+    border-bottom: 1px solid #767676;
+    line-height: 0.1em;
+    margin: 30px;
+}
+span{
+    background-color: #fff;
+    color: #767676
+    padding: 0 10px;
+}
+
+.other-span{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+button{
+    font-size: 90%;
+    padding: 5px;
+    margin-top: 25px;
+    background-color: #e7e9e;
+    border: 1px solid #adb1b8;
+    border-radius: 2px;
+    margin-bottom: 20px
+}
+footer{
+    border-top: 2px solid #adb1b8;
+
+}
+#footerElem>div>a>p{
+    display: inline;
+    text-align: center;
+    padding: 10px 5px 5px 0;
+}
+#footerElem>p{
+    font-size: 85%;
+    text-align: center;
+    padding: 20;
+
+}
+.forgotpass{
+    position: relative;
+    bottom: 0vh;
+    right: -5.4vw;
+    font-size: 90%;
+    text-align: right;
+}
